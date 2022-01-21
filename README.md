@@ -86,6 +86,7 @@ Miroの基本的な操作については、下記サイトを見てみてくだ�
     - [Gitルーキートラの巻](content/gitForRookies.md)
     - [チーム開発手引き](content/gitTeamDevelopmentGuide.md)
     - [リポジトリ更新手引き](content/gitUpdateGuide.md)
+    - [Git-チーム開発準備](content/gitPrepareForTeamDevelopmentGuide.pdf)
 - IntelliJ IDEA
     - [IntelliJ IDEAのTIPS](content/tipsIntelliJ.md)
 - Zoom
